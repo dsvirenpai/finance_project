@@ -1,1 +1,2 @@
-This is a delta file that I've created to learn Git fundamentals
+# This is a delta file that I've created to learn Git fundamentals
+# I'll be doing a second commit now

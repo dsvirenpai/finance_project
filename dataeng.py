@@ -1,0 +1,1 @@
+This is a delta file that I've created to learn Git fundamentals
